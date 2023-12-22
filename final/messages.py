@@ -1,0 +1,11 @@
+EMPTY_VECTOR = 'Vector should not be empty'
+VECTOR_SHOULD_BE_LIST = 'Vector should be list'
+NO_LIST_OF_VECTOR = 'There is no list of vectors'
+EMPTY_LIST_OF_VECTOR = 'Empty list of vectors'
+NOT_ENOUGH_INPUT = 'Not enough input'
+INPUT_SHOULD_SAME_SIZE = "Inputs should be same size"
+EMPTY_INPUT_OR_WRONG_FORMAT = 'Empty input or wrong format'
+METHOD_NOT_PICKED = 'Method was not picked'
+EMPTY_INPUT = 'Empty input'
+SUCCESS = 'Success operation'
+ERROR = 'Something went wrong'
